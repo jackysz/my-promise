@@ -1,0 +1,23 @@
+{
+  "name": "my-promise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "promises-aplus-tests main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alvin0216/my-promise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alvin0216/my-promise/issues"
+  },
+  "homepage": "https://github.com/alvin0216/my-promise#readme",
+  "dependencies": {
+    "promises-aplus-tests": "^2.1.2"
+  }
+}
